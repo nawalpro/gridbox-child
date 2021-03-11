@@ -1,0 +1,28 @@
+/*
+ Theme Name:   gridbox-child
+ Theme URI:    http://example.com/gridbox-child/
+ Description:  gridbox-Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     gridbox
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild
+*/
+#footer{
+	background-color:#674c45;
+}
+
+#masthead{
+	background-color:#674c45;
+}
+
+.more-link{
+	background-color:#674c45;
+}
+
+.more-link:hover{
+	background-color:black;
+}
